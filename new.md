@@ -3,3 +3,6 @@
 
 # newfile
 不断改进
+
+# coding
+some code
