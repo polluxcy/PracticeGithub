@@ -1,5 +1,5 @@
-# PracticGitbook
-PracticGitbook
+# PracticeGithub
+PracticeGithub
 
 CI集成，加入图标  
 以插入图片的方式写
